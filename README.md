@@ -36,8 +36,9 @@ I started my coding journey in **2021** through The Last Mile and have since dev
 
 ## 📈 GitHub Stats
 
-![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=markvelasquez&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markvelasquez&layout=compact&theme=tokyonight)
+
+![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCVelasquez45&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCVelasquez45&layout=compact&theme=tokyonight)
 
 ---
 
