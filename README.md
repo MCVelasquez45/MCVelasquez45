@@ -51,7 +51,7 @@ A future nonprofit dedicated to helping **youth and adults** break into tech by 
 - 🔥 **[React Portfolio](https://github.com/MCVelasquez45/react-portfolio)** – Description of project 1.
 - 🚀 **[Vector Square](https://github.com/MCVelasquez45/vectorsquare)** – Description of project 2.
 
-📌 **More projects:** [Check out my repositories](https://github.com/MCVelasquez45)
+📌 **More projects:** [Check out my repositories](https://github.com/MCVelasquez45?tab=repositories)
 
 ---
 
