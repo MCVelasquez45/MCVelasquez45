@@ -48,8 +48,8 @@ I started my coding journey in **2021** through The Last Mile and have since dev
 A future nonprofit dedicated to helping **youth and adults** break into tech by learning to **code and build real-world applications**.
 
 ### **Notable Projects**
-- 🔥 **[React Portfolio](https://github.com/MCVelasquez45/react-portfolio)** – Description of project 1.
-- 🚀 **[Vector Square](https://github.com/MCVelasquez45/vectorsquare)** – Description of project 2.
+- 🔥 **[React Portfolio](https://github.com/MCVelasquez45/react-portfolio)** 
+- 🚀 **[Vector Square](https://github.com/MCVelasquez45/vectorsquare)** 
 
 📌 **More projects:** [Check out my repositories](https://github.com/MCVelasquez45?tab=repositories)
 
