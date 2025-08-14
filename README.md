@@ -34,8 +34,18 @@ I started my coding journey in **2021** through The Last Mile and have since dev
 
 ---
 
-## 📈 GitHub Stats
+## 🌐 Tools & Platforms I Use
 
+[![Polygon.io](https://img.shields.io/badge/Polygon.io-Market%20Data%20API-orange?style=for-the-badge&logo=polygon&logoColor=white)](https://polygon.io/)
+[![Vercel](https://img.shields.io/badge/Vercel-Deploy%20Frontend-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-Deploy%20Backend-blue?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
+[![n8n](https://img.shields.io/badge/n8n-Automation-FF3E00?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+
+> These are my go-to services for deploying projects, building APIs, streaming market data, and automating workflows.
+
+---
+
+## 📈 GitHub Stats
 
 ![Mark's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MCVelasquez45&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MCVelasquez45&layout=compact&theme=tokyonight)
@@ -45,11 +55,13 @@ I started my coding journey in **2021** through The Last Mile and have since dev
 ## 🌟 Projects & Work
 
 ### **🚀 Vector Square**
-A future nonprofit dedicated to helping **youth and adults** break into tech by learning to **code and build real-world applications**.
+A future nonprofit dedicated to helping **youth and adults** break into tech by learning to **code and build real-world applications**.  
+[![Vercel](https://img.shields.io/badge/Vercel-Live%20Frontend-black?style=flat&logo=vercel&logoColor=white)](https://vercel.com/)
+[![Render](https://img.shields.io/badge/Render-Live%20Backend-blue?style=flat&logo=render&logoColor=white)](https://render.com/)
 
 ### **Notable Projects**
-- 🔥 **[React Portfolio](https://github.com/MCVelasquez45/react-portfolio)** 
-- 🚀 **[Vector Square](https://github.com/MCVelasquez45/vectorsquare)** 
+- 🔥 **[React Portfolio](https://github.com/MCVelasquez45/react-portfolio)**  
+- 🚀 **[Vector Square](https://github.com/MCVelasquez45/vectorsquare)**  
 
 📌 **More projects:** [Check out my repositories](https://github.com/MCVelasquez45?tab=repositories)
 
@@ -71,4 +83,3 @@ A future nonprofit dedicated to helping **youth and adults** break into tech by 
 ---
 
 ### 🔥 Let's Connect & Build Cool Stuff Together!
-
