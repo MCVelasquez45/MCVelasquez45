@@ -40,6 +40,8 @@ I started my coding journey in **2021** through The Last Mile and have since dev
 [![Vercel](https://img.shields.io/badge/Vercel-Deploy%20Frontend-black?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 [![Render](https://img.shields.io/badge/Render-Deploy%20Backend-blue?style=for-the-badge&logo=render&logoColor=white)](https://render.com/)
 [![n8n](https://img.shields.io/badge/n8n-Automation-FF3E00?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io/)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+[![Deferred Auth](https://img.shields.io/badge/Deferred%20Auth-FF9800?logo=auth0&logoColor=white)](#)
 
 > These are my go-to services for deploying projects, building APIs, streaming market data, and automating workflows.
 
